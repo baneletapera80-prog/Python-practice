@@ -1,0 +1,6 @@
+witbank,4,sunny,78
+witbank,7,89,78
+pretoria,8,sunny,56
+witbank,9,sunny,89
+johnnanisburg,20,sunny,67
+pretoria,15,cloudy,78

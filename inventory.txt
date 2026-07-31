@@ -1,0 +1,2 @@
+2,pvc,solar,23,12000.0,Ndzilo
+3,pvc,bettery,23,2345.0,Ndzilo
