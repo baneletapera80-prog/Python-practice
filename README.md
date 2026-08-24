@@ -1,9 +1,9 @@
-﻿# Python Practice 
+﻿## Python Practice
  
 This repository contains my Python programming practice
 exercises and small projects as I learn programming.
 
-#Topics I'm Learning
+##Topics I'm Learning
 
 - Variables & Data Types
 - Conditional Statements
@@ -13,7 +13,7 @@ exercises and small projects as I learn programming.
 - File Handling
 - Object-Oriented Programming
 
-# Projects
+##Projects
 
 - Calculator
 - Contact Book
@@ -21,7 +21,7 @@ exercises and small projects as I learn programming.
 - Library Management System
 - Movie Management System
 
-#Goal
+##Goal
 
 Build a strong foundation in programming and Computer Science
 through consistent practice problem-solving, and projects.
